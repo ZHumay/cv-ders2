@@ -1,0 +1,20 @@
+.container{
+  margin-bottom: 150px;
+  font-size: 20px;
+
+}
+body{
+  background-color: pink;
+}
+p{
+  background-color: palevioletred;
+  width: 400px;
+}
+ul{
+  background-color: palevioletred;
+  width: 360px;
+}
+.img{
+  width:300px;
+  height: 200px;
+}
